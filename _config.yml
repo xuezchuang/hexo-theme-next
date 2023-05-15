@@ -180,11 +180,11 @@ seo: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://xuezchuang.github.io/ || fab fa-github
-  标签: categories || 
-  git: categories/git || fa git
-  hexo: categories/hexo || 
-  opengl: categories/opengl || 
-  graph: categories/graph || 
+  分类: categories || 
+  git: tags/git || fa git
+  hexo: tags/hexo || 
+  opengl: tags/opengl || 
+  graph: tags/graph || 
   
 social_icons:
   enable: true
