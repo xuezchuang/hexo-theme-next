@@ -185,6 +185,7 @@ social:
   hexo: tags/hexo || 
   opengl: tags/opengl || 
   graph: tags/graph || 
+  blender: tags/blender || 
   
 social_icons:
   enable: true
