@@ -184,6 +184,7 @@ social:
   git: tags/git || fa git
   hexo: tags/hexo || 
   opengl: tags/opengl || 
+  dx12: tags/dx12 || 
   graph: tags/graph || 
   blender: tags/blender || 
   
